@@ -1,0 +1,16 @@
+{
+  "name": "sfdx-gulp-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://NomadBlacky@github.com/NomadBlacky/sfdx-gulp-sample.git",
+  "author": "NomadBlacky <hourou.hamurinzu@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "fancy-log": "^1.3.2",
+    "gulp": "^3.9.1",
+    "node-notifier": "^5.1.2",
+    "run-sequence": "^2.2.1",
+    "sfdx-node": "^0.0.1"
+  }
+}
